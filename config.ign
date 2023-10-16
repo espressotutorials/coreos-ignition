@@ -5,6 +5,9 @@
   "passwd": {
     "users": [
       {
+        "groups": [
+          "docker"
+        ],
         "name": "core",
         "sshAuthorizedKeys": [
           "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC9SE/X22JHbzQCJGmgERV88c6v8NWYVu7hUu0VTRAH+Ig+1NyxleISI3oKeWKtgvzy5+DelqpTgMMqgEzigCTetwstkLXT26FKraE1YTDj/ROrIDmALffEaA9Bjgi9A7ybxUaksePgBlwB6oWiIyaIOilmpGNNaAKbI6Cxupk63g0kAiewiNn2OhaPFDO6Ov0cpp8PCA2DZfaGYVzP39LeZxdQTfnoe/uy9uxHNyZJHehcQ9QkZTMIG/oTjI36TipYcj+g3eQ5x0fIGR2f2yzA4qS+WcwnamqkcCpw1sVTfFxvrfJw7cQYAXE4v7IQawHHvftn2Y4JfInqBkY0mKcx4ZGE6VDhkIYBJi4Xa7EcQnXdwVfat48gBEfabJPJ+a/qHu4myOpQoWsR+iOJqL49cVCvXLBMCnL3YetxAK3+uQ7hcr46q/uUF+GItiSH20Ukz2leZ4PWEEhhpVIUg355jP+rSZPTq6687/QUdwC659Ob7g6PaXYCQBWi0GLxSKPCUMs8DcWhDaTsBTCoe/V8tJ8BOkQmYvWMQq7bAlvbQSTMTX4DGAmUv1biQjQ3sonVnYJAtIbv7baH1XMKnnexBe16QCAkP6rxFE2UlJq7p+EsYJQ+3AJcRph3pTs3qmgwwkHL9kQ78+2zxKBDhx7UjwWu5XRZ0k9JCyRTxGBn1Q== jonas.regner@espresso-tutorials.com"
